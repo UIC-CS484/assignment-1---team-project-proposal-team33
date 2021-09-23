@@ -28,17 +28,3 @@
     flex-shrink: 0;
     flex-basis: 400px;
 }
-.section2_project_out{
-    height: 300px;
-    width: 50%;
-    flex-grow: 1;
-    flex-shrink: 0;
-    margin-bottom: 0.5em;
-    margin-top: 0.5em;
-    flex-basis: 400px;
-    float: right;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-    text-align: center;
-    background-color: lightblue;
-}
