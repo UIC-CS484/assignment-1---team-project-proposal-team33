@@ -93,16 +93,16 @@
                 </P>
             </div>
             <div class= "ThirdRow_child">
+                
                 <h2>
-                    Change Font Size:
+                    Adjust font size:
                 </h2>
 
-                <P>
-                    Add a form element that would
-                    make use of vanilla JS that would
-                    allow the end-user to adjust the
-                    size of the text for this site.
-                </P>    
+                <form >
+                        <P><input type="radio" id="small_font" name="font_size" value="smallfont" onclick = "small_font();"/>Small font size</P>
+                        <P><input type="radio" id="normal_font" name="font_size" value="normalfont" onclick = "normal_font();"/>Normal font size</P>
+                        <P><input type="radio" id="large_font" name="font_size" value="largefont" onclick = "large_font();"/>Large font size</P>
+                </form>    
             </div>
         </div>
 
