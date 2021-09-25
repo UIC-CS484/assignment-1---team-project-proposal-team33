@@ -1,7 +1,7 @@
 ﻿# assignment-1---team-project-proposal-team33
 Music JukeBox
 
-Our application is over here: assignment-1---team-project-proposal-team33/proposal.html
+Our application is over here:  https://uic-cs484.github.io/assignment-1---team-project-proposal-team33/proposal.html
 
 Team Members:
 
