@@ -9,7 +9,7 @@ Naman Jain: Backend programmer and will be responsible of data structure.
 
 Afnan Waseem: Backend programmer and will handle API requests.
 
-Yash Sanjay mude: Frontend programmer, will be responsible for how our sites look.
+Yash Mude: Frontend programmer, will be responsible for how our sites look.
 
 Development Tool:
 
